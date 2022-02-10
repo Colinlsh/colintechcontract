@@ -47,10 +47,4 @@ contract COLINERC721 is ERC721, ERC721Enumerable, Pausable, Ownable, ERC721Burna
     {
         return super.supportsInterface(interfaceId);
     }
-
-    string d = "Hello";
-
-    function getHello() public view returns(string memory) {
-        return  d;
-    }
 }

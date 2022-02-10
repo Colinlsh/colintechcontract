@@ -8678,12 +8678,6 @@
       "links": {},
       "address": "0x4d10e3d5bEf5D4E974509F1cD71b86a70874844A",
       "transactionHash": "0x5c4f2116288b50ee18513ade580ac12fd1fceaa5efa2b2630fddc8076376e03e"
-    },
-    "5777": {
-      "events": {},
-      "links": {},
-      "address": "0x86f1d77Af707C8290d79Ad0D0d679342B8880c55",
-      "transactionHash": "0x8ee28f8eb3ccae1bb297ceabb34265467c2732d5c73301d5baef30bf6645480a"
     }
   },
   "schemaVersion": "3.4.4",
