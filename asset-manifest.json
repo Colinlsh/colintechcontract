@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pundixcolin/static/css/main.73d5f4ff.css",
+    "main.js": "/pundixcolin/static/js/main.17bf1a92.js",
+    "static/js/787.0954545b.chunk.js": "/pundixcolin/static/js/787.0954545b.chunk.js",
+    "static/media/rocketlaunchland_2.mp4": "/pundixcolin/static/media/rocketlaunchland_2.2a9e075952fd09beeaf7.mp4",
+    "index.html": "/pundixcolin/index.html",
+    "main.73d5f4ff.css.map": "/pundixcolin/static/css/main.73d5f4ff.css.map",
+    "main.17bf1a92.js.map": "/pundixcolin/static/js/main.17bf1a92.js.map",
+    "787.0954545b.chunk.js.map": "/pundixcolin/static/js/787.0954545b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73d5f4ff.css",
+    "static/js/main.17bf1a92.js"
+  ]
+}
