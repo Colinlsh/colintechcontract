@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/colintechcontract/static/css/main.73d5f4ff.css",
-    "main.js": "/colintechcontract/static/js/main.7e3ee5cf.js",
+    "main.js": "/colintechcontract/static/js/main.8f6bbd2b.js",
     "static/js/787.4930e9b0.chunk.js": "/colintechcontract/static/js/787.4930e9b0.chunk.js",
     "static/media/rocketlaunchland_2.mp4": "/colintechcontract/static/media/rocketlaunchland_2.2a9e075952fd09beeaf7.mp4",
     "index.html": "/colintechcontract/index.html",
     "main.73d5f4ff.css.map": "/colintechcontract/static/css/main.73d5f4ff.css.map",
-    "main.7e3ee5cf.js.map": "/colintechcontract/static/js/main.7e3ee5cf.js.map",
+    "main.8f6bbd2b.js.map": "/colintechcontract/static/js/main.8f6bbd2b.js.map",
     "787.4930e9b0.chunk.js.map": "/colintechcontract/static/js/787.4930e9b0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.73d5f4ff.css",
-    "static/js/main.7e3ee5cf.js"
+    "static/js/main.8f6bbd2b.js"
   ]
 }
